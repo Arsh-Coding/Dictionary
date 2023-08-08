@@ -142,7 +142,7 @@ body{
     content: 'I like it';
 }
 .stars #three:checked ~ .result121:before{
-    content: "It's good";
+    content: 'Its good';
 }
 .stars #two:checked ~ .result121:before{
     content: 'I dont like it';
